@@ -9,5 +9,9 @@ function áreaQuadrado (lado){
 console.log (áreaQuadrado (6));
 let media= function( ) {
     return ;
-    console.log ( );
 }
+console.log (media(1,2,3) );
+
+let nome=prompt(nome?) 
+document.write (nome);
+=parseInt(prompt (nome?));
